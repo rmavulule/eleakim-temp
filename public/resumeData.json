@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Inocência da Clara Mavulule",
+    "description":"Pare, pare tudo! Hoje é o dia do teu aniversário, meu amor, pelo que dedico o meu site todinho para ti! Feliz aniversário. Bjao",
+    "image":"profilepic.jpg",
+    "bio":"Nada mais importa, hoje é aniversário da Ino.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "rmavulule@eleakim.co.mz",
+    "phone": "+258 873171350",
+    "github":"/",
+    "project":"/",
+    "address":{
+      "street":"(Matola)",
+      "city":"(Cidade da Matola)",
+      "state":"(Cidade da Matola)",
+      "zip": "(00-0000)"
+    },
+    "website": "eleakim.co.mz",
+    "resumedownload":"eleakim.co.mz",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"eleakim.co.mz",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"eleakim.co.mz",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"eleakim.co.mz",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"eleakim.co.mz",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"eleakim.co.mz",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Desenvolvemos aplicativos usando, as seguintes ferramentas",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Empresa 1",
+        "title":"Empresa 1 ",
+        "years":"Empresa 1",
+        "description":"Empresa 1."
+      },
+      {
+        "company":"Empresa 2",
+        "title":"Empresa 2 ",
+        "years":"Empresa 2",
+        "description":"Empresa 2."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Spring boot",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"ASP.NET",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
